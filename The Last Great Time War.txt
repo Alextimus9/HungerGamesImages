@@ -596,6 +596,58 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Su
 BW
 
 
+The Master
+#FFFFFF 0 0
+
+The Thirteenth Master
+The Thirteenth Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ThirteenthMaster.png
+BW
+
+The Decayed Master
+The Decayed Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/DecayedMaster.png
+BW
+
+The Tremas Master
+The Tremas Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TremasMaster.png
+BW
+
+The Movie Master
+The Movie Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MovieMaster.png
+BW
+
+The War Master
+The War Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/WarMaster.png
+BW
+
+The Saxon Master
+The Saxon Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SaxonMaster.png
+BW
+
+Missy
+Missy
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Missy.png
+BW
+
+The Spy Master
+The Spy Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SpyMaster.png
+BW
+
+
 The Dalek Empire
 #FFFFFF 0 0
 
