@@ -396,6 +396,64 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ro
 BW
 
 
+The Dalek Empire
+#FFFFFF 0 0
+
+Davros
+Davros
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Davros.png
+BW
+
+The Supreme Dalek
+The Supreme Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SupremeDalek.png
+BW
+
+A Dalek
+A Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Dalek.png
+BW
+
+A Paradigm Dalek
+A Paradigm Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ParadigmDalek.png
+BW
+
+A Reconnaisance Dalek
+A Recon Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ReconnaisanceDalek.png
+BW
+
+A Special Weapons Dalek
+A Special Weapons Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SpecialWeaponsDalek.png
+BW
+
+An Imperial Dalek
+An Imperial Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ImperialDalek.png
+BW
+
+A Dalek
+A Dalek
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ClassicDalek.png
+BW
+
+A Dalek Fleet
+A Dalek Fleet
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/DalekFleet.png
+BW
+
+
 Cybermen
 #FFFFFF 0 0
 
