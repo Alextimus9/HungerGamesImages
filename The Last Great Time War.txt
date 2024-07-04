@@ -114,6 +114,100 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TA
 BW
 
 
+Classic Companions
+#FFFFFF 0 0
+
+Susan Foreman
+Susan
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Susan.png
+BW
+
+Ian Chesterton
+Ian
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ian.png
+BW
+
+Barbara Wright
+Barbara
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Barbara.png
+BW
+
+Polly Wright
+Polly
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Polly.png
+BW
+
+Ben Jackson
+Ben
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ben.png
+BW
+
+Jamie McCrimmon
+Jamie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Jamie.png
+BW
+
+Jo Grant
+Jo
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Jo.png
+BW
+
+Sarah Jane Smith
+Sarah Jane
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SarahJane.png
+BW
+
+K9
+K9
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/K9.png
+BW
+
+Adric
+Adric
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Adric.png
+BW
+
+Nyssa of Traken
+Nyssa
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Nyssa.png
+BW
+
+Tegan Jovanka
+Tegan
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Tegan.png
+BW
+
+Peri Brown
+Peri
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Peri.png
+BW
+
+Dorothy Gale
+Ace
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ace.png
+BW
+
+Grace Holloway
+Grace
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Grace.png
+BW
+
+
 The Villains
 #FFFFFF 0 0
 
