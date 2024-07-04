@@ -1,0 +1,516 @@
+The Freddy Faz-Brawl
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/banner.png
+
+
+Classic Animatronics
+#FFFFFF 0 0
+
+Freddy Fazbear
+Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Freddy.png
+BW
+
+Bonnie
+Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Bonnie.png
+BW
+
+Chica
+Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Chica.png
+BW
+
+Foxy
+Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Foxy.png
+BW
+
+Golden Freddy
+Golden Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/GoldenFreddy.png
+BW
+
+
+Toy Animatronics
+#FFFFFF 0 0
+
+Toy Freddy
+Toy Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/ToyFreddy.png
+BW
+
+Toy Bonnie
+Toy Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/ToyBonnie.png
+BW
+
+Toy Chica
+Toy Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/ToyChica.png
+BW
+
+Toy Foxy
+Mangle
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Mangle.png
+BW
+
+Balloon Boy
+Balloon Boy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/BB.png
+BW
+
+
+Withered Animatronics
+#FFFFFF 0 0
+
+Withered Freddy
+Withered Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/WitheredFreddy.png
+BW
+
+Withered Bonnie
+Withered Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/WitheredBonnie.png
+BW
+
+Withered Chica
+Withered Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/WitheredChica.png
+BW
+
+Withered Foxy
+Withered Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/WitheredFoxy.png
+BW
+
+Withered Golden Freddy
+Withered Golden Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/WitheredGoldenFreddy.png
+BW
+
+
+Phantom Animatronics
+#FFFFFF 0 0
+
+Phantom Freddy
+Phantom Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomFreddy.png
+BW
+
+Phantom Chica
+Phantom Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomChica.png
+BW
+
+Phantom Foxy
+Phantom Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomFoxy.png
+BW
+
+Phantom Mangle
+Phantom Mangle
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomMangle.png
+BW
+
+Phantom Balloon Boy
+Phantom Balloon Boy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomBB.png
+BW
+
+Phantom Puppet
+Phantom Puppet
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhantomPuppet.png
+BW
+
+
+Springlock Suits
+#FFFFFF 0 0
+
+Fredbear
+Fredbear
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Fredbear.png
+BW
+
+Spring Bonnie
+Spring Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/SpringBonnie.png
+BW
+
+
+Nightmare Animatronics
+#FFFFFF 0 0
+
+Nightmare Freddy
+Nightmare Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NightmareFreddy.png
+BW
+
+Nightmare Bonnie
+Nightmare Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NightmareBonnie.png
+BW
+
+Nightmare Chica
+Nightmare Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NightmareChica.png
+BW
+
+Nightmare Foxy
+Nightmare Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NightmareFoxy.png
+BW
+
+Nightmare Fredbear
+Nightmare Fredbear
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NightmareFredbear.png
+BW
+
+Nightmare
+Nightmare
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Nightmare.png
+BW
+
+Nightmarionne
+Nightmarionne
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Nightmarrionette.png
+BW
+
+Plushtrap
+Plushtrap
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Plushtrap.png
+BW
+
+The Freddles
+The Freddles
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Freddles.png
+BW
+
+
+Funtime Animatronics
+#FFFFFF 0 0
+
+Circus Baby
+Circus Baby
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/CircusBaby.png
+BW
+
+Ballora
+Ballora
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Ballora.png
+BW
+
+Funtime Freddy
+Funtime Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/FuntimeFreddy.png
+BW
+
+Funtime Foxy
+Funtime Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/FuntimeFoxy.png
+BW
+
+Funtime Chica
+Funtime Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/FuntimeChica.png
+BW
+
+Music Man
+Music Man
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/MusicMan.png
+BW
+
+Biddybab
+Biddybab
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Biddybab.png
+BW
+
+The Minireenas
+The Minireenas
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Minireena.png
+BW
+
+
+Scrap Animatronics
+#FFFFFF 0 0
+
+Springtrap
+Springtrap
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Springtrap.png
+BW
+
+Molten Freddy
+Molten Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/MoltenFreddy.png
+BW
+
+Scrap Baby
+Scrap Baby
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/ScrapBaby.png
+BW
+
+Scraptrap
+Scraptrap
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Scraptrap.png
+BW
+
+
+Rockstar Animatronics
+#FFFFFF 0 0
+
+Rockstar Freddy
+Rockstar Freddy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/RockstarFreddy.png
+BW
+
+Rockstar Bonnie
+Rockstar Bonnie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/RockstarBonnie.png
+BW
+
+Rockstar Chica
+Rockstar Chica
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/RockstarChica.png
+BW
+
+Rockstar Foxy
+Rockstar Foxy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/RockstarFoxy.png
+BW
+
+L.E.F.T.E.
+Lefty
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Lefty.png
+BW
+
+
+Mediocre Melodies
+#FFFFFF 0 0
+
+Happy Frog
+Happy Frog
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/HappyFrog.png
+BW
+
+Mr. Hippo
+Mr. Hippo
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/MrHippo.png
+BW
+
+Pigpatch
+Pigpatch
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Pigpatch.png
+BW
+
+Nedd Bear
+Nedd Bear
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/NeddBear.png
+BW
+
+Orville Elephant
+Orville Elephant
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/OrvilleElephant.png
+BW
+
+
+Miscellaneous Characters
+#FFFFFF 0 0
+
+The Puppet
+The Puppet
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Puppet.png
+BW
+
+Ennard
+Ennard
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Ennard.png
+BW
+
+HandUnit
+HandUnit
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/HandUnit.png
+BW
+
+Endo-01
+Endo-01
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Endo01.png
+BW
+
+Endo-02
+Endo-02
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Endo02.png
+BW
+
+Yenndo
+Yenndo
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Yenndo.png
+BW
+
+Trash and the Gang
+Trash and the Gang
+4
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/TrashAndTheGang.png
+BW
+
+The Missing Children
+The Missing Children
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/GhostChilds.png
+BW
+
+Helpy
+Helpy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Helpy.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/HelpyDead.png
+
+A Lawsuit
+A Lawsuit
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Lawsuit.png
+BW
+
+
+Humans
+#FFFFFF 0 0
+
+William Afton
+William
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Afton.png
+BW
+
+Michael Afton
+Michael
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/MichaelAfton.png
+BW
+
+Elizabeth Afton
+Elizabeth
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/ElizabethAfton.png
+BW
+
+Crying Child
+Crying Child
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/CryingChild.png
+BW
+
+Henry Emily
+Henry
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Henry.png
+BW
+
+Charlotte Emily
+Charlie
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/CharlotteEmily.png
+BW
+
+Phone Guy
+Phone Guy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhoneGuy.png
+BW
+
+Phone Dude
+Phone Dude
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/PhoneDude.png
+BW
+
+
+YouTubers
+#FFFFFF 0 0
+
+Markiplier
+Markiplier
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Markiplier.png
+BW
+
+MatPat
+MatPat
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/MatPat.png
+BW
+
+CoryxKenshin
+CoryxKenshin
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/CoryxKenshin.png
+BW
+
+8-BitRyan
+8-BitRyan
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/8BitRyan.png
+BW
+
+Dawko
+Dawko
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/fnaf/Dawko.png
+BW
