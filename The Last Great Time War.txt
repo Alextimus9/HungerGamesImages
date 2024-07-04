@@ -372,3 +372,37 @@ Lindy
 0
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/LindyPepperBean.png
 BW
+
+
+The Pantheon of Discord
+#FFFFFF 0 0
+
+The Toymaker
+The Toymaker
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheToymaker.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheToymakerDead.png
+
+Sutekh
+Sutekh
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Sutekh.png
+BW
+
+The Trickster
+The Trickster
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheTrickster.png
+BW
+
+Maestro
+Maestro
+4
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Maestro.png
+BW
+
+The Mara
+The Mara
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheMara.png
+BW
