@@ -212,7 +212,7 @@ Modern Companions
 #FFFFFF 0 0
 
 Rose Tyler
-Rose
+Rose Tyler
 0
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rose.png
 BW
@@ -223,7 +223,7 @@ Mickey
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Mickey.png
 BW
 
-Cpatain Jack Harkness
+Captain Jack Harkness
 Captain Jack
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CaptainJack.png
@@ -320,41 +320,117 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ru
 BW
 
 
+UNIT
+#FFFFFF 0 0
+
+Brigadier Alistair Gordon Lethbridge-Stewart
+The Birgadier
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Brigadier.png
+BW
+
+Sergeant John Benton
+Sergeant Benton
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Benton.png
+BW
+
+Captain Michael Yates
+Captain Yates
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Yates.png
+BW
+
+Kate Lethbridge-Stewart
+Kate
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Kate.png
+BW
+
+Dr. Malcolm Taylor
+Malcolm
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Malcom.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MalcolmDead.png
+
+The Osgoods
+The Osgoods
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Osgoods.png
+BW
+
+Shirley Binghma
+Shirely
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Shirley.png
+BW
+
+Colonel Christofer Ibrahim
+Colonel Ibrahim
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ibrahim.png
+BW
+
+The Vlinx
+The Vlinx
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheVlinx.png
+BW
+
+Melanie Bush
+Mel
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Mel.png
+BW
+
+Morris Gibbons
+Morris
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Morris.png
+BW
+
+Rose Noble
+Rose Noble
+4
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/RoseNoble.png
+BW
+
+
 Cybermen
 #FFFFFF 0 0
 
-Cyber Leader
-Cyber Leader
+The Cyber Leader
+The Cyber Leader
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CyberLeader.png
 BW
 
-Mondasian Cyberman
-Cyberman
+A Mondasian Cyberman
+A Cyberman
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanMondas.png
 BW
 
-Cyberman
-Cyberman
+A Cyberman
+A Cyberman
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanClassic.png
 BW
 
-Cyberman
-Cyberman
+A Cyberman
+A Cyberman
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman10.png
 BW
 
-Cyberman
-Cyberman
+A Cyberman
+A Cyberman
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman11.png
 BW
 
-Cyberman
-Cyberman
+A Cyberman
+A Cyberman
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman13.png
 BW
