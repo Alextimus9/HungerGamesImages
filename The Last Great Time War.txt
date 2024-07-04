@@ -350,7 +350,7 @@ BW
 Dr. Malcolm Taylor
 Malcolm
 1
-https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Malcom.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Malcolm.png
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MalcolmDead.png
 
 The Osgoods
