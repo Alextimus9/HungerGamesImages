@@ -320,6 +320,52 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ru
 BW
 
 
+Cybermen
+#FFFFFF 0 0
+
+Cyber Leader
+Cyber Leader
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CyberLeader.png
+BW
+
+Mondasian Cyberman
+Cyberman
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanMondas.png
+BW
+
+Cyberman
+Cyberman
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanClassic.png
+BW
+
+Cyberman
+Cyberman
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman10.png
+BW
+
+Cyberman
+Cyberman
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman11.png
+BW
+
+Cyberman
+Cyberman
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman13.png
+BW
+
+Ashad
+Ashad
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ashad.png
+BW
+
+
 The Villains
 #FFFFFF 0 0
 
