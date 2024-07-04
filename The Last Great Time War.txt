@@ -276,3 +276,99 @@ The Vashta Nerada
 3
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/VashtaNerada.png
 BW
+
+The Midnight Entity
+The Midnight Entity
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MidnightEntity.png
+BW
+
+Prisoner Zero
+Prisoner Zero
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/PrisonerZero.png
+BW
+
+The Dream Lord
+The Dream Lord
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/DreamLord.png
+BW
+
+A Silurian
+A Silurian
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Silurian.png
+BW
+
+The Silence
+The Silence
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheSilence.png
+BW
+
+Madame Kovarian
+Madame Kovarian
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/PrisonerZero.png
+BW
+
+Adolf Hitler
+Hitler
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/AdolfHitler.png
+BW
+
+The Great Intelligence
+The Great Intelligence
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/GreatIntelligence.png
+BW
+
+An Ice Warrior
+An Ice Warrior
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/IceWarrior.png
+BW
+
+A Zygon
+A Zygon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Zygon.png
+BW
+
+Rusty
+Rusty
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rusty.png
+BW
+
+The Foretold
+The Foretold
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheForetold.png
+BW
+
+The Monks
+The Monks
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheMonks.png
+BW
+
+Tecteun
+Tecteun
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Tecteun.png
+BW
+
+A Sea Devil
+A Sea Devil
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SeaDevil.png
+BW
+
+Lindy Pepper-Bean
+Lindy
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/LindyPepperBean.png
+BW
