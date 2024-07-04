@@ -359,7 +359,7 @@ The Osgoods
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Osgoods.png
 BW
 
-Shirley Binghma
+Shirley Bingham
 Shirely
 0
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Shirley.png
@@ -393,6 +393,88 @@ Rose Noble
 Rose Noble
 4
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/RoseNoble.png
+BW
+
+
+Misc Characters I
+#FFFFFF 0 0
+
+Jacqueline Tyler
+Jackie
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Jackie.png
+BW
+
+Peter Tyler
+Pete
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Pete.png
+BW
+
+The Face of Boe
+The Face of Boe
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FaceOfBoe.png
+BW
+
+Harriet Jones
+Harriet Jones
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/HarrietJonesFormerPrimeMinister.png
+BW
+
+Elton Pope
+Elton
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/EltonJohn.png
+BW
+
+Luke Smith
+Luke
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Luke.png
+BW
+
+Clyde Langer
+Clyde
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Clyde.png
+BW
+
+Rani Chandra
+Rani
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rani.png
+BW
+
+Ianto Jones
+Ianto
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ianto.png
+BW
+
+Gwendolen Cooper
+Gwen
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Gwen.png
+BW
+
+Sylvia Noble
+Sylvia
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Sylvia.png
+BW
+
+Ood Sigma
+Ood Sigma
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/OodSigma.png
+BW
+
+Shaun Temple
+Shaun
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Shaun.png
 BW
 
 
