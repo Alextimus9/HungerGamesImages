@@ -529,6 +529,12 @@ Brian
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/BrianWilliams.png
 BW
 
+Ohila
+Ohila
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ohila.png
+BW
+
 Queen Elizabeth I
 Queen Elizabeth I
 0
@@ -645,6 +651,40 @@ The Spy Master
 The Spy Master
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SpyMaster.png
+BW
+
+
+Time Lords
+#FFFFFF 0 0
+
+Lord President Rassilon
+Rassilon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rassilon.png
+BW
+
+Kenossium
+The General
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheGeneral.png
+BW
+
+The Rani
+The Rani
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheRani.png
+BW
+
+Romana I
+Romana I
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Romana1.png
+BW
+
+Romana II
+Romana II
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Romana2.png
 BW
 
 
