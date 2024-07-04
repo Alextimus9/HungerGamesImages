@@ -310,7 +310,7 @@ BW
 Madame Kovarian
 Madame Kovarian
 0
-https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/PrisonerZero.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MadameKovarian.png
 BW
 
 Adolf Hitler
