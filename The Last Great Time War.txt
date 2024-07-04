@@ -324,7 +324,7 @@ UNIT
 #FFFFFF 0 0
 
 Brigadier Alistair Gordon Lethbridge-Stewart
-The Birgadier
+The Brigadier
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Brigadier.png
 BW
