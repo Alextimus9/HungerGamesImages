@@ -751,37 +751,37 @@ Cybermen
 
 The Cyber Leader
 The Cyber Leader
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CyberLeader.png
 BW
 
 A Mondasian Cyberman
 A Cyberman
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanMondas.png
 BW
 
 A Cyberman
 A Cyberman
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CybermanClassic.png
 BW
 
 A Cyberman
 A Cyberman
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman10.png
 BW
 
 A Cyberman
 A Cyberman
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman11.png
 BW
 
 A Cyberman
 A Cyberman
-3
+2
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Cyberman13.png
 BW
 
