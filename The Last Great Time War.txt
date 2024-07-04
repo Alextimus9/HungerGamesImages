@@ -478,6 +478,124 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Sh
 BW
 
 
+Misc Characters II
+#FFFFFF 0 0
+
+Craig Owens
+Craig
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CraigOwens.png
+BW
+
+Dorium Maldovar
+Dorium
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Dorium.png
+BW
+
+Canton Everett Delaware III
+Canton
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CantonEverettDelawareIII.png
+BW
+
+Madame Vastra
+Vastra
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Vastra.png
+BW
+
+Jenny Flint
+Jenny
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/JennyFlint.png
+BW
+
+Strax
+Strax
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Strax.png
+BW
+
+Alfie Owens
+Alfie
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/AlfieOwens.png
+BW
+
+Brian Williams
+Brian
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/BrianWilliams.png
+BW
+
+Queen Elizabeth I
+Queen Elizabeth I
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ElizabethI.png
+BW
+
+Danny Pink
+Danny
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/DannyPink.png
+BW
+
+Rigsy
+Rigsy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rigsy.png
+BW
+
+Ashildr
+Ashildr
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ashildr.png
+BW
+
+Professor Eustacius Jericho
+Jericho
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Jericho.png
+BW
+
+Carla Sunday
+Carla
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CarlaSunday.png
+BW
+
+Cherry Sunday
+Cherry
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CherrySunday.png
+BW
+
+Mrs. Flood
+Mrs. Flood
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MrsFlood.png
+BW
+
+Ricky September
+Ricky September
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/RickySeptember.png
+BW
+
+Rogue
+Rogue
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rogue.png
+BW
+
+Susan Triad
+Susan Triad
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SusanTriad.png
+BW
+
+
 The Dalek Empire
 #FFFFFF 0 0
 
