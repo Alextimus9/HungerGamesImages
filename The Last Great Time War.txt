@@ -1,0 +1,184 @@
+The Last Great Time War
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/banner.png
+
+
+The Doctor
+#FFFFFF 0 0
+
+The First Doctor
+The First Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FirstDoctor.png
+BW
+
+The Second Doctor
+The Second Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SecondDoctor.png
+BW
+
+The Third Doctor
+The Third Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ThirdDoctor.png
+BW
+
+The Fourth Doctor
+The Fourth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FourthDoctor.png
+BW
+
+The Fifth Doctor
+The Fifth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FifthDoctor.png
+BW
+
+The Sixth Doctor
+The Sixth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SixthDoctor.png
+BW
+
+The Seventh Doctor
+The Seventh Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/SeventhDoctor.png
+BW
+
+The Eighth Doctor
+The Eighth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/EigthDoctor.png
+BW
+
+The War Doctor
+The War Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/WarDoctor.png
+BW
+
+The Ninth Doctor
+The Ninth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/NinthDoctor.png
+BW
+
+The Tenth Doctor
+The Tenth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TenthDoctor.png
+BW
+
+The Eleventh Doctor
+The Eleventh Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/EleventhDoctor.png
+BW
+
+The Twelfth Doctor
+The Twelfth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TwelfthDoctor.png
+BW
+
+The Thirteenth Doctor
+The Thirteenth Doctor
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/ThirteenthDoctor.png
+BW
+
+The Fugitive Doctor
+The Fugitive Doctor
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FugitiveDoctor.png
+BW
+
+The Fourteenth Doctor
+The Fourteenth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FourteenthDoctor.png
+BW
+
+The Fifteenth Doctor
+The Fifteenth Doctor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FifteenthDoctor.png
+BW
+
+The TARDIS
+The TARDIS
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TARDIS.png
+BW
+
+
+The Villains
+#FFFFFF 0 0
+
+The Autons
+The Autons
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Autons.png
+BW
+
+The Slitheen Family
+The Slitheen
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Slitheen.png
+BW
+
+The Empty Child
+The Empty Child
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/EmptyChild.png
+BW
+
+Brother Lassar
+Mr. Finch
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/MrFinch.png
+BW
+
+The Beast
+The Beast
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/TheBeast.png
+BW
+
+Abzorbaloff
+Abzorbaloff
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Abzorbaloff.png
+BW
+
+Empress of the Racnoss
+The Racnoss Empress
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Racnoss.png
+BW
+
+The Family of Blood
+The Family of Blood
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/FamilyOfBlood.png
+BW
+
+A Weeping Angel
+A Weeping Angel
+2
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/WeepingAngel.png
+BW
+
+The 10th Sontaran Battle Fleet
+The Sontarans
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Sontarans.png
+BW
+
+The Vashta Nerada
+The Vashta Nerada
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/VashtaNerada.png
+BW
