@@ -208,6 +208,118 @@ https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Gr
 BW
 
 
+Modern Companions
+#FFFFFF 0 0
+
+Rose Tyler
+Rose
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rose.png
+BW
+
+Mickey Smith
+Mickey
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Mickey.png
+BW
+
+Cpatain Jack Harkness
+Captain Jack
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/CaptainJack.png
+BW
+
+Dr. Martha Jones
+Martha
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Martha.png
+BW
+
+Donna Noble
+Donna
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Donna.png
+BW
+
+Wilfred Mott
+Wilf
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Wilfred.png
+BW
+
+Amelia Pond
+Amy
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Amy.png
+BW
+
+Rory Williams
+Rory
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Rory.png
+BW
+
+Melody Pond
+River
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/River.png
+BW
+
+Clara Oswald
+Clara
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Clara.png
+BW
+
+Handles
+Handles
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Handles.png
+BW
+
+Nardole
+Nardole
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/GodOfSex.png
+BW
+
+Bill Potts
+Bill
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Bill.png
+BW
+
+Yasmin Khan
+Yaz
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Yaz.png
+BW
+
+Ryan Sinclair
+Ryan
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ryan.png
+BW
+
+Graham O'Brien
+Graham
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Graham.png
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/GrahamDead.png
+
+Dan Lewis
+Dan
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Dan.png
+BW
+
+Ruby Sunday
+Ruby
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/main/doctorwho/Ruby.png
+BW
+
+
 The Villains
 #FFFFFF 0 0
 
