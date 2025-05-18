@@ -1,0 +1,1008 @@
+The Multiversal War
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/logo.png
+
+
+The Avengers
+#FFFFFF 0 0
+
+Tony Stark
+Iron Man
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/IronMan.png?raw=true
+BW
+
+Steve Rogers
+Captain America
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/CaptainAmerica.png?raw=true
+BW
+
+Thor Odinson
+Thor
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Thor.png?raw=true
+BW
+
+Bruce Banner
+Hulk
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Hulk.png?raw=true
+BW
+
+Natasha Romanoff
+Black Widow
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BlackWidow.png?raw=true
+BW
+
+Clint Barton
+Hawkeye
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Hawkeye.png?raw=true
+BW
+
+Colonel James Rhodes
+War Machine
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/WarMachine.png?raw=true
+BW
+
+Scott Lang
+Ant-Man
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/AntMan.png?raw=true
+BW
+
+Hope van Dyne
+Wasp
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Wasp.png?raw=true
+BW
+
+The Vision
+Vision
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Vision.png?raw=true
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/VIsionDead.png?raw=true
+
+Carol Danvers
+Captain Marvel
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/CaptainMarvel.png?raw=true
+BW
+
+Sam Wilson
+Captain America
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/SamCap.png?raw=true
+BW
+
+Joaquín Torres
+Falcon
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Falcon.png?raw=true
+BW
+
+Peter Parker
+Spider-Man
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Spiderman.png?raw=true
+BW
+
+Xu Shang-Chi
+Shang-Chi
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/ShangChi.png?raw=true
+BW
+
+Nick Fury
+Fury
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Fury.png?raw=true
+BW
+
+
+Guardians of the Galaxy
+#FFFFFF 0 0
+
+Peter Quill
+Star-Lord
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Starlord.png?raw=true
+BW
+
+Gamora
+Gamora
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Gamora.png?raw=true
+BW
+
+Drax the Destroyer
+Drax
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Drax.png?raw=true
+BW
+
+Rocket Raccoon
+Rocket
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Rocket.png?raw=true
+BW
+
+Groot
+Groot
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Groot.png?raw=true
+BW
+
+Mantis
+Mantis
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Mantis.png?raw=true
+BW
+
+Nebula
+Nebula
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Nebula.png?raw=true
+BW
+
+Yondu Udonta
+Yondu
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Yondu.png?raw=true
+BW
+
+Kraglin Obfonteri
+Kraglin
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Kraglin.png?raw=true
+BW
+
+Adam Warlock
+Adam Warlock
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/AdamWarlock.png?raw=true
+BW
+
+Cosmo
+Cosmo
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Cosmo.png?raw=true
+BW
+
+
+Magic
+#FFFFFF 0 0
+
+Doctor Stephen Strange
+Doctor Strange
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Strange.png?raw=true
+BW
+
+Wong
+Wong
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Wong.png?raw=true
+BW
+
+Karl Mordo
+Mordo
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Mordo.png?raw=true
+BW
+
+The Ancient One
+Ancient One
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/AncientOne.png?raw=true
+BW
+
+Wanda Maximoff
+Scarlet Witch
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Wanda.png?raw=true
+BW
+
+Agatha Harkness
+Agatha
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Agatha.png?raw=true
+BW
+
+Billy and Tommy Maximoff
+Billy and Tommy
+3
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BillyAndTommy.png?raw=true
+BW
+
+Xu Xialing
+Xialing
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Xialing.png?raw=true
+BW
+
+Xu Wenwu
+Wenwu
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Wenwu.png?raw=true
+BW
+
+The Great Protector
+Great Protector
+4
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/GreatDragonThingie.png?raw=true
+BW
+
+
+The Eternals
+#FFFFFF 0 0
+
+Ajak
+Ajak
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ajak.png?raw=true
+BW
+
+Ikaris
+Ikaris
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ikaris.png?raw=true
+BW
+
+Sersi
+Sersi
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Sersi.png?raw=true
+BW
+
+Sprite
+Sprite
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Sprite.png?raw=true
+BW
+
+Kingo
+Kingo
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Kingo.png?raw=true
+BW
+
+Thena
+Thena
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Thena.png?raw=true
+BW
+
+Gilgamesh
+Gilgamesh
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Gilgamesh.png?raw=true
+BW
+
+Phastos
+Phastos
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Phastos.png?raw=true
+BW
+
+Druig
+Druig
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Druig.png?raw=true
+BW
+
+Makkari
+Makkari
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Makkari.png?raw=true
+BW
+
+Karun Patel
+Karun
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Karun.png?raw=true
+BW
+
+
+The Thunderbolts*
+#FFFFFF 0 0
+
+James Buchanan Barnes
+Bucky
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Bucky.png?raw=true
+BW
+
+Yelena Belova
+Yelena
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Yelena.png?raw=true
+BW
+
+Alexei Shostakov
+Red Guardian
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/RedGuardian.png?raw=true
+BW
+
+John Walker
+US Agent
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/USAgent.png?raw=true
+BW
+
+Ava Starr
+Ghost
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ghost.png?raw=true
+BW
+
+Antonia Dreykov
+Taskmaster
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Taskmaster.png?raw=true
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Void.png?raw=true
+
+Robert Reynolds
+Bob
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Bob.png?raw=true
+BW
+
+Contessa Valentina Allegra de la Fontaine
+Val
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Val.png?raw=true
+BW
+
+
+Wakanda
+#FFFFFF 0 0
+
+T'Challa
+Black Panther
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BlackPanther.png?raw=true
+BW
+
+Shuri
+Shuri
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Shuri.png?raw=true
+BW
+
+M'Baku
+M'Baku
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MBaku.png?raw=true
+BW
+
+Okoye
+Okoye
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Okeye.png?raw=true
+BW
+
+Ramonda
+Ramonda
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ramonda.png?raw=true
+BW
+
+Nakia
+Nakia
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Nakia.png?raw=true
+BW
+
+
+The Fantastic Four
+#FFFFFF 0 0
+
+Reed Richards
+Mr. Fantastic
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MrFantastic.png?raw=true
+BW
+
+Susan Storm
+Invisible Woman
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/InvisibleWoman.png?raw=true
+BW
+
+Johnny Storm
+Human Torch
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/HumanTorch.png?raw=true
+BW
+
+Ben Grimm
+The Thing
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/TheThing.png?raw=true
+BW
+
+HERBIE
+HERBIE
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/HERBIE.png?raw=true
+BW
+
+
+Heroes
+#FFFFFF 0 0
+
+Matt Murdock
+Daredevil
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Daredevil.png?raw=true
+BW
+
+Jennifer Walters
+She-Hulk
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/SheHulk.png?raw=true
+BW
+
+Kamala Khan
+Ms. Marvel
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MsMarvel.png?raw=true
+BW
+
+Jane Foster
+Jane
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Jane.png?raw=true
+BW
+
+Valkyrie
+Valkyrie
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Valkrye.png?raw=true
+BW
+
+Marc Spector/Steven Grant
+Moon Knight
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MoonKnight.png?raw=true
+BW
+
+Layla El-Faouly
+Layla
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Layla.png?raw=true
+BW
+
+Kate Bishop
+Kate
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/KateBishop.png?raw=true
+BW
+
+Riri Williams
+Iron Heart
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/IronHeart.png?raw=true
+BW
+
+Phil Coulson
+Coulson
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Coulson.png?raw=true
+BW
+
+Hank Pym
+Hank
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Hank.png?raw=true
+BW
+
+Janet van Dyne
+Janet
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Janet.png?raw=true
+BW
+
+Cassie Lang
+Cassie
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Cassie.png?raw=true
+BW
+
+
+Loki Variants
+#FFFFFF 0 0
+
+Loki Laufeyson
+Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Loki.png?raw=true
+BW
+
+Loki Laufeyson
+TVA Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/TVALoki.png?raw=true
+BW
+
+Sylvie Laufeydottir
+Sylvie
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Sylvie.png?raw=true
+BW
+
+Loki Laufeyson
+Classic Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/OldLoki.png?raw=true
+BW
+
+Loki Laufeyson
+Kid Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/KidLoki.png?raw=true
+BW
+
+Loki Laufeyson
+Boastful Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BoastfulLoki.png?raw=true
+BW
+
+Alligator Loki
+Alligator Loki
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/AligatorLoki.png?raw=true
+BW
+
+
+The TVA
+#FFFFFF 0 0
+
+Mobius M. Mobius
+Mobius
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Mobius.png?raw=true
+BW
+
+Judge Ravonna Renslayer
+Renslayer
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ravonna.png?raw=true
+BW
+
+Miss Minutes
+Miss Minutes
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MissMinutes.png?raw=true
+BW
+
+Hunter B-15
+Hunter B-15
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/B16.png?raw=true
+BW
+
+
+Thanos' Forces
+#FFFFFF 0 0
+
+Thanos
+Thanos
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Thanos.png?raw=true
+BW
+
+Ebony Maw
+Ebony Maw
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/EbonyMaw.png?raw=true
+BW
+
+Proxima Midnight
+Proxima Midnight
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/ProximaMidnight.png?raw=true
+BW
+
+Corvus Glaive
+Corvus Glaive
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/CorvusGlaive.png?raw=true
+BW
+
+Cull Obsidian
+Cull Obsidian
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/CullObsidian.png?raw=true
+BW
+
+The Whole Outrider Army
+The Outrider Army
+3
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Outriders.png?raw=true
+BW
+
+The Whole Chitauri Army
+The Chitauri Army
+3
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/ChitariArmy.png?raw=true
+BW
+
+
+Kang Variants
+#FFFFFF 0 0
+
+Kang the Conqueror
+Kang
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Kang.png?raw=true
+BW
+
+He Who Remains
+He Who Remains
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/HeWhoRemains.png?raw=true
+BW
+
+Immortus
+Immortus
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Immortus.png?raw=true
+BW
+
+Rama-Tut
+Rama-Tut
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/RamaTut.png?raw=true
+BW
+
+Scarlet Centurion
+Scarlet Centurion
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/ScarletCenturion.png?raw=true
+Bw
+
+Victor Timely
+Victor Timely
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/VictorTimely.png?raw=true
+BW
+
+
+Godly Beings
+#FFFFFF 0 0
+
+Uatu the Watcher
+Uatu
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Uatu.png?raw=true
+BW
+
+Arishem the Judge
+Arishem
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Arishem.png?raw=true
+BW
+
+Eson the Searcher
+Eson
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Eson.png?raw=true
+BW
+
+Dormammu
+Dormammu
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Dormommu.png?raw=true
+BW
+
+Odin Borson
+Odin
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Odin.png?raw=true
+BW
+
+Ego the Living Planet
+Ego
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ego.png?raw=true
+BW
+
+Galactus
+Galactus
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Galactus.png?raw=true
+BW
+
+
+Villains
+#FFFFFF 0 0
+
+Johann Shmidt
+Red Skull
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/RedSkull.png?raw=true
+BW
+
+Erik Killmonger
+Killmonger
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Killmonger.png?raw=true
+BW
+
+Quentin Beck
+Mysterio
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Mysterio.png?raw=true
+BW
+
+Hela Odinsdottir
+Hela
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Hela.png?raw=true
+BW
+
+Ultron
+Ultron
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ultron.png?raw=true
+BW
+
+Adrian Toomes
+Vulture
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Vulture.png?raw=true
+BW
+
+Baron Helmut Zemo
+Zemo
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Zemo.png?raw=true
+BW
+
+Ch'ah Toh Almehen
+Namor
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Namor.png?raw=true
+BW
+
+Brock Rumlow
+Crossbones
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Crossbones.png?raw=true
+BW
+
+Gorr the God Butcher
+Gorr
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Gorr.png?raw=true
+BW
+
+Ulysses Klaue
+Klaue
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Klaue.png?raw=true
+BW
+
+Darren Cross
+MODOK
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Modok.png?raw=true
+BW
+
+Surtur
+Surtur
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Surtur.png?raw=true
+BW
+
+Wilson Fisk
+Kingpin
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Kingpin.png?raw=true
+BW
+
+Arthur Harrow
+Harrow
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Harrow.png?raw=true
+BW
+
+The High Evolutionary
+High Evolutionary
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/HighEvolutionary.png?raw=true
+BW
+
+
+Other Characters
+#FFFFFF 0 0
+
+Luis
+Luis
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Luis.png?raw=true
+BW
+
+The Van
+The Van
+2
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Van.png?raw=true
+BW
+
+White Vision
+White Vision
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/WhiteVision.png?raw=true
+BW
+
+Korg
+Korg
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Korg.png?raw=true
+BW
+
+Peggy Carter
+Peggy
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Peggy.png?raw=true
+BW
+
+Pietro Maximoff
+Quicksilver
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Pietro.png?raw=true
+BW
+
+Pepper Potts
+Pepper
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Pepper.png?raw=true
+BW
+
+Morgan Stark
+Morgan
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Morgan.png?raw=true
+BW
+
+Happy Hogan
+Happy
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Happy.png?raw=true
+BW
+
+Michelle Jones
+MJ
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MJ.png?raw=true
+BW
+
+Ned Leeds
+Ned
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Ned.png?raw=true
+BW
+
+J. Jonah Jameson
+J.J.J.
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/JJJ.png?raw=true
+BW
+
+Bruno Carrelli
+Bruno
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Bruno.png?raw=true
+BW
+
+The Barton Family
+Hawkeye's Family
+3
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BartonFamily.png?raw=true
+BW
+
+Trevor Slattery
+Trevor
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Trevor.png?raw=true
+BW
+
+Silver Surfer
+Silver Surfer
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/SilverSurfer.png?raw=true
+BW
+
+Stan Lee
+Stan Lee
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/StanLee.png?raw=true
+BW
+
+
+Multiverse
+#FFFFFF 0 0
+
+Peter Parker
+Spider-Man
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Tobey.png?raw=true
+BW
+
+Peter Parker
+Spider-Man
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Andrew.png?raw=true
+BW
+
+Norman Osborn
+Green Goblin
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/GreenGoblin.png?raw=true
+BW
+
+Doctor Otto Octavius
+Doc Ock
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/DocOck.png?raw=true
+BW
+
+Max Dillion
+Electro
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Electro.png?raw=true
+BW
+
+America Chavez
+America Chavez
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/America.png?raw=true
+BW
+
+Professor Charles Xavier
+Professor X
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/ProfessorX.png?raw=true
+BW
+
+Peggy Carter
+Captain Carter
+0
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Carter.png?raw=true
+BW
+
+Reed Richards
+Mr. Fantastic
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/MrFantastic838.png?raw=true
+BW
+
+Blackagar Boltagon
+Black Bolt
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/BlackBolt.png?raw=true
+BW
+
+Wade Wilson
+Deadpool
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Deadpool.png?raw=true
+BW
+
+Logan
+Wolverine
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Wolverine.png?raw=true
+BW
+
+Remy LeBeau
+Gambit
+1
+https://github.com/Alextimus9/HungerGamesImages/blob/main/MCU/Gambit.png?raw=true
+BW
