@@ -675,6 +675,12 @@ Penny
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Penny.png
 BW
 
+Corbeau
+Corbeau
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Corbeau.png
+BW
+
 
 Team Members
 #FFFFFF 0 0
@@ -937,4 +943,16 @@ AZ
 AZ
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/AZ.png
+BW
+
+Lida
+Lida
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Lida.png
+BW
+
+Naveen
+Naveen
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Naveen.png
 BW
