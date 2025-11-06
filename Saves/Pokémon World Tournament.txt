@@ -367,7 +367,7 @@ Magnolia
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Professor_Magnolia.png
 BW
 
-Professor Sonia
+Sonia
 Sonia
 0
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Sonia.png
@@ -389,6 +389,12 @@ Professor Turo
 Turo
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Professor_Turo.png
+BW
+
+Mable
+Mable
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Mable.png
 BW
 
 
@@ -955,4 +961,10 @@ Naveen
 Naveen
 1
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Naveen.png
+BW
+
+Emma
+Emma
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/Pokemon/Emma.png
 BW
