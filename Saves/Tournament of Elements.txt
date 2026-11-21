@@ -1,0 +1,844 @@
+Tournament of Elements
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/banner.png
+
+
+The Ninja
+#FFFFFF 0 0
+
+Kai
+Kai
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kai.png
+BW
+
+Jay Walker
+Jay
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Jay.png
+BW
+
+Cole
+Cole
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Cole.png
+BW
+
+Zane
+Zane
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Zane.png
+BW
+
+Nya
+Nya
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Nya.png
+BW
+
+
+The Young Ninja
+#FFFFFF 0 0
+
+Arin Nived
+Arin
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Arin.png
+BW
+
+Sora
+Sora
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Sora.png
+BW
+
+Riyu
+Riyu
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Riyu.png
+BW
+
+Wyldfyre
+Wyldfyre
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Wyldfyre.png
+BW
+
+Frak Slitherbottom
+Frak
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Frak.png
+BW
+
+Euphrasia
+Euphrasia
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Euphrasia.png
+BW
+
+
+The Ninja Replacements
+#FFFFFF 0 0
+
+Grand Sensei Dareth
+Dareth
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Dareth.png
+BW
+
+Skylor
+Skylor
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Skylor.png
+BW
+
+Captain Soto
+Soto
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Soto.png
+BW
+
+Echo Zane
+Echo Zane
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/EchoZane.png
+BW
+
+Police Commissioner
+Commissioner
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Commissioner.png
+BW
+
+Ronin
+Ronin
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Ronin.png
+BW
+
+
+The First Spinjitzu Master's Family
+#FFFFFF 0 0
+
+Lord Garmadon
+Garmadon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Garmadon.png
+BW
+
+Misako Montgomery Garmadon
+Misako
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Misako.png
+BW
+
+The First Spinjitzu Master
+First Spinjitzu Master
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/FirstSpinjitsuMaster.png
+BW
+
+Lloyd Montgomery Garmadon
+Lloyd
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Lloyd.png
+BW
+
+Master Wu
+Wu
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Wu.png
+BW
+
+
+The Skulkin
+#FFFFFF 0 0
+
+Samukai
+Samukai
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Samukai.png
+BW
+
+Nuckal
+Nuckal
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Nuckal.png
+BW
+
+Kruncha
+Kruncha
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kruncha.png
+BW
+
+Wyplash
+Wyplash
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Wyplash.png
+BW
+
+
+The Serpentine
+#FFFFFF 0 0
+
+Pythor P. Chumsworth
+Pythor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Pythor.png
+BW
+
+Skales
+Skales
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Skales.png
+BW
+
+Acidicus
+Acidicus
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Acidicus.png
+BW
+
+Fangtom
+Fangtom
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Fangtom.png
+BW
+
+Skalidor
+Skalidor
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Skalidor.png
+BW
+
+Spitta
+Spitta
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Spitta.png
+BW
+
+The Great Devourer
+The Great Devourer
+4
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/GreatDevourer.png
+BW
+
+Aspheera
+Aspheera
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Aspheera.png
+BW
+
+
+The Stone Army
+#FFFFFF 0 0
+
+The Overlord
+The Overlord
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Overlord.png
+BW
+
+General Kozu
+Kozu
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kozu.png
+BW
+
+Giant Stone Warrior
+Giant Stone Warrior
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/GiantStoneWarrior.png
+BW
+
+The Stone Army
+The Stone Army
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/StoneArmy.png
+BW
+
+
+Anacondrai Warriors
+#FFFFFF 0 0
+
+Master Chen
+Chen
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Chen.png
+BW
+
+Clouse
+Clouse
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Clouse.png
+BW
+
+Chope
+Chope
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Chope.png
+BW
+
+Kapau
+Kapau
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kapau.png
+BW
+
+Anacondrai Serpent
+Anacondrai Serpent
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/AnacondraiSerpent.png
+BW
+
+
+The Sky Pirates
+#FFFFFF 0 0
+
+Nadakhan
+Nadakhan
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Nadakhan.png
+BW
+
+Flintlocke
+Flintlocke
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Flintlocke.png
+BW
+
+Dogshank
+Dogshank
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Dogshank.png
+BW
+
+Doubloon
+Doubloon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Doubloon.png
+BW
+
+Monkey Wretch
+Monkey Wretch
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MonkeyWretch.png
+BW
+
+Clancee
+Clancee
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Clancee.png
+BW
+
+
+The Vermillion Army
+#FFFFFF 0 0
+
+Krux
+Krux
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Krux.png
+BW
+
+Acronix
+Acronix
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Acronix.png
+BW
+
+The Vermillion Army
+The Vermillion Army
+3
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Vermillion.png
+BW
+
+
+The Sons of Garmadon
+#FFFFFF 0 0
+
+Harumi
+Harumi
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Harumi.png
+BW
+
+Killow
+Killow
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Killow.png
+BW
+
+Ultra Violet
+Ultra Violet
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/UltraViolet.png
+BW
+
+Mr. E
+Mr. E
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MrE.png
+BW
+
+Snake Jaguar
+Snake Jaguar
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/SnakeJaguar.png
+BW
+
+
+The Resistance
+#FFFFFF 0 0
+
+P.I.X.A.L.
+P.I.X.A.L.
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/P.I.X.A.L.png
+BW
+
+Griffin Turner
+Turner
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/GriffinTurner.png
+BW
+
+Karlof
+Karlof
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Karlof.png
+BW
+
+Neuro
+Neuro
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Neuro.png
+BW
+
+Mr. Pale
+Mr. Pale
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Mr.Pale.png
+BW
+
+Shade
+Shade
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Shade.png
+BW
+
+Tox
+Tox
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Tox.png
+BW
+
+Mystake
+Mystake
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Mystake.png
+BW
+
+
+The Upply
+#FFFFFF 0 0
+
+Fungus
+Fungus
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Fungus.png
+BW
+
+Korgran
+Korgran
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Korgran.png
+BW
+
+Plundar
+Plundar
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Plundar.png
+BW
+
+Adam
+Adam
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Adam.png
+BW
+
+
+NGTV News
+#FFFFFF 0 0
+
+Gayle Gossip
+Gayle Gossip
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Gayle.png
+BW
+
+Fred Finely
+Fred Finely
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Fred.png
+BW
+
+Vinny Folson
+Vinny
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Vinny.png
+BW
+
+Dan Vaapit
+Dan Vaapit
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Dan.png
+BW
+
+News Reporter
+News Reporter
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Reporter.png
+BW
+
+
+The Dragons
+#FFFFFF 0 0
+
+Flame
+Flame
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Flame.png
+BW
+
+Wisp
+Wisp
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Wisp.png
+BW
+
+Rocky
+Rocky
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Rocky.png
+BW
+
+Shard
+Shard
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Shard.png
+BW
+
+Firstbourne
+Firstbourne
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Firstbourne.png
+BW
+
+Ultra Dragon
+Ultra
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Ultradragon.png
+BW
+
+The Overlord (Dragon Form)
+The Overlord
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/OverlordDragon.png
+BW
+
+The Golden Dragon
+Golden Dragon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/GoldenDragon.png
+BW
+
+Hydroelectric Dragon
+Hydroelectric Dragon
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/HydroelectricDragon.png
+BW
+
+Fusion Dragon
+Fusion Dragon
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/FusionDragon.png
+BW
+
+Chompy
+Chompy
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Chompy.png
+BW
+
+Grief Bringer
+Grief Bringer
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/GriefBringer.png
+BW
+
+
+Friends
+#FFFFFF 0 0
+
+Dr. Cyrus Borg
+Dr. Borg
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Borg.png
+BW
+
+Morro
+Morro
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Morro.png
+BW
+
+Lil Nelson
+Nelson
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Nelson.png
+BW
+
+Antonia
+Antonia
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Antonia.png
+BW
+
+Faith
+Faith
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Faith.png
+BW
+
+Scott
+Scott
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Scott.png
+BW
+
+Akita
+Akita
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Akita.png
+BW
+
+Kataru
+Kataru
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kataru.png
+BW
+
+Dr. Clutch Powers
+Clutch Powers
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/ClutchPowers.png
+BW
+
+Queen Vania
+Vania
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Vania.png
+BW
+
+Benthomaar
+Benthomaar
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Benthomaar.png
+BW
+
+Wu's Chicken
+Wu's Chicken
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/WusChicken.png
+BW
+
+Lloyd Montgomery Garmadon
+Lloyd
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/LegoMovieLloyd.png
+BW
+
+
+Foes
+#FFFFFF 0 0
+
+Iron Baron
+Iron Baron
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/IronBaron.png
+BW
+
+The Omega
+Omega
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/TheOmega.png
+BW
+
+Vex
+Vex
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Vex.png
+BW
+
+Unagami
+Unagami
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Unagami.png
+BW
+
+Skull Sorcerer
+Skull Sorcerer
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/SkullSorcerer.png
+BW
+
+King Kalmaar
+Kalmaar
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Kalmaar.png
+BW
+
+
+Parents
+#FFFFFF 0 0
+
+Cliff Gordon
+Cliff
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/FritzDonnegan.png
+BW
+
+Ed Walker
+Ed
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Ed.png
+BW
+
+Edna Walker
+Edna
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Edna.png
+BW
+
+Ray
+Ray
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Ray.png
+BW
+
+Maya
+Maya
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Maya.png
+BW
+
+Lou
+Lou
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Lou.png
+BW
+
+Lilly
+Lilly
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Lilly.png
+BW
+
+Dr. Julien
+Dr. Julien
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/DrJulien.png
+BW
+
+
+Babies
+#FFFFFF 0 0
+
+Kai
+Baby Kai
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/BabyKai.png
+BW
+
+Nya
+Baby Nya
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/BabyNya.png
+BW
+
+Little Master Wu
+Baby Wu
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/BabyWu.png
+BW
+
+Lloyd Montgomery Garmadon
+Baby Lloyd
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/BabyLloyd.png
+BW
+
+
+The Secret Ninja Force
+#FFFFFF 0 0
+
+Lloyd Montgomery Garmadon
+Lloyd
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieLloyd.png
+BW
+
+Kai
+Kai
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieKai.png
+BW
+
+Jay Walker
+Jay
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieJay.png
+BW
+
+Cole
+Cole
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieCole.png
+BW
+
+Zane
+Zane
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieZane.png
+BW
+
+Nya
+Nya
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieNya.png
+BW
+
+Master Wu
+Master Wu
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieWu.png
+BW
+
+Lord Garmadon
+Garmadon
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/MovieGarmadon.png
+BW
+
+Misako Montgomery Garmadon
+Koko
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Koko.png
+BW
+
+Fuschia Ninja
+Fuschia Ninja
+1
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/FuschiaNinja.png
+BW
