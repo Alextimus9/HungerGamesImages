@@ -709,6 +709,12 @@ Cliff
 https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/FritzDonnegan.png
 BW
 
+Libber
+Libber
+0
+https://raw.githubusercontent.com/Alextimus9/HungerGamesImages/refs/heads/main/ninjago/Libber.png
+BW
+
 Ed Walker
 Ed
 1
